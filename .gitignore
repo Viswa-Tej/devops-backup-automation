@@ -1,0 +1,6 @@
+backups/
+logs/
+restored-test/
+restored/
+*.tar.gz
+.env
